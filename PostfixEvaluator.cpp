@@ -148,7 +148,14 @@ int postfixEvaluater(string infix){
     cout<<"result:"<<s.pop();
 }
 int main(){
+
+        cout<<"\t\t\t************************************************"<<endl;
+        cout<<"\t\t\t\t\tPost Fix Evaluater"<<endl;
+        cout<<"\t\t\t************************************************"<<endl;
 	string fixx="23-";
 		postfixEvaluater(fixx);
+        cout<<"\t\t\t************************************************"<<endl;
+cout<<"\t\t\t\t\tProgram end"<<endl;
+        cout<<"\t\t\t************************************************"<<endl;
 	return 0;
 }
