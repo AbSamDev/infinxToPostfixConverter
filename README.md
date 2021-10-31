@@ -1,5 +1,5 @@
-# Expression evaluator
-infix To Postfix Convertor</br>
-<b>For Example:- </b></br>
-*infix:*  A * (B + C) * D
-*postfix:*  A B C + * D
+# Expression Evaluator
+Infix To Postfix Convertor</br>
+<b>Example:- </b></br></br>
+*infix:*  A * (B + C) * D </br>
+*postfix:*  A B C + * D </br>
